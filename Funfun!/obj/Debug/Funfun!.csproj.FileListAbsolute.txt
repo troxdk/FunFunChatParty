@@ -1,0 +1,26 @@
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\bin\Debug\Funfun!.exe.config
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!.csprojResolveAssemblyReference.cache
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\MainWindow.baml
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\MainWindow.g.cs
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\App.g.cs
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!_MarkupCompile.cache
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!.g.resources
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun_.Properties.Resources.resources
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!.csproj.GenerateResource.Cache
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\bin\Debug\Funfun!.exe
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\bin\Debug\Funfun!.pdb
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!.exe
+c:\users\troxdk\documents\visual studio 2012\Projects\Funfun!\Funfun!\obj\Debug\Funfun!.pdb
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.exe.config
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.exe
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.pdb
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.exe
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.pdb
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.csprojResolveAssemblyReference.cache
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\MainWindow.baml
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\MainWindow.g.cs
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\App.g.cs
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!_MarkupCompile.cache
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.g.resources
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun_.Properties.Resources.resources
+C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.csproj.GenerateResource.Cache
