@@ -24,3 +24,16 @@ C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!_Marku
 C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.g.resources
 C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun_.Properties.Resources.resources
 C:\Users\TroxDK\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.csproj.GenerateResource.Cache
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.exe.config
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.exe
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.pdb
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.exe
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\bin\Debug\Funfun!.pdb
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.csprojResolveAssemblyReference.cache
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\MainWindow.baml
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\MainWindow.g.cs
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\App.g.cs
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!_MarkupCompile.cache
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.g.resources
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun_.Properties.Resources.resources
+C:\Users\Poul Meyer\Documents\GitHub\FunFunChatParty\Funfun!\obj\Debug\Funfun!.csproj.GenerateResource.Cache

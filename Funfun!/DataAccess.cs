@@ -15,7 +15,7 @@ namespace Funfun_
             List<Messages> items = new List<Messages>();
             try
             {
-                using (FileStream fs = File.OpenRead(@"C:\Users\TroxDK\Dropbox\Vores chat program\Messages.dat"))
+                using (FileStream fs = File.OpenRead(@"C:\Users\Poul Meyer\Dropbox\Vores chat program\Messages.dat"))
                 {
                     BinaryFormatter formatter = new BinaryFormatter();
                     items = formatter.Deserialize(fs) as List<Messages>;
@@ -27,7 +27,7 @@ namespace Funfun_
 
         public void SaveMessages(List<Messages> items)
         {
-            using (FileStream fs = File.Create(@"C:\Users\TroxDK\Dropbox\Vores chat program\Messages.dat", 2048, FileOptions.None))
+            using (FileStream fs = File.Create(@"C:\Users\Poul Meyer\Dropbox\Vores chat program\Messages.dat", 2048, FileOptions.None))
             {
                 BinaryFormatter formatter = new BinaryFormatter();
                 formatter.Serialize(fs, items);
