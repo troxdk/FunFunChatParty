@@ -70,6 +70,8 @@ namespace Funfun_
             //saveMessages();
             File.SaveMessages(messages);
 
+            listboxFromFile.Items.Refresh();
+
             
         }
     }
